@@ -1,3 +1,0 @@
-E:\Programs\CMake\bin\cmake.exe -E rm -f CMakeFiles\pong_game.dir/objects.a
-C:\ProgramData\chocolatey\bin\ar.exe qc CMakeFiles\pong_game.dir/objects.a @CMakeFiles\pong_game.dir\objects1.rsp
-C:\ProgramData\chocolatey\bin\c++.exe -Wl,--whole-archive CMakeFiles\pong_game.dir/objects.a -Wl,--no-whole-archive -o bin\pong_game.exe -Wl,--out-implib,libpong_game.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pong_game.dir\linkLibs.rsp

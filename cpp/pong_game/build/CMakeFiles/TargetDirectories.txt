@@ -1,3 +1,0 @@
-E:/studySource/C++/pong_game/build/CMakeFiles/pong_game.dir
-E:/studySource/C++/pong_game/build/CMakeFiles/edit_cache.dir
-E:/studySource/C++/pong_game/build/CMakeFiles/rebuild_cache.dir
